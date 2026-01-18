@@ -1,18 +1,74 @@
-# React + Vite
+# 🚗 Suzuki Landing Page – Concept Store Digital
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ce projet est une **Landing Page haute performance** dédiée à la promotion et à la vente de véhicules de la marque **Suzuki**. L'objectif est d'offrir une expérience utilisateur immersive grâce à l'intégration de vidéos générées par IA et un parcours client optimisé pour la conversion (Lead Gen).
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Fonctionnalités
 
-## React Compiler
+- **Hero Section Immersive :** Intégration d'une boucle vidéo cinématique générée par IA (Grok) pour une captation immédiate de l'attention.
+- **Showroom Interactif :** Présentation des modèles phares (Swift, Vitara, Jimny) avec fiches techniques simplifiées.
+- **Optimisation Mobile First :** Expérience de navigation fluide sur smartphones et tablettes.
+- **Performance (Score Core Web Vitals) :** Optimisation du poids des médias (WebP, MP4 compressé) pour un chargement en moins de 2 secondes.
+- **Conversion Focus :** Formulaire de demande d'essai intégré et bouton de contact rapide via WhatsApp.
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+---
 
-Note: This will impact Vite dev & build performances.
+## 🛠️ Stack Technique
 
-## Expanding the ESLint configuration
+- **Frontend :** [Précisez : ex: HTML5/CSS3/JS ou React/Next.js]
+- **Design & Médias :**
+- **Vidéos :** Générées via Grok (IA) et optimisées avec Handbrake.
+- **Images :** Format WebP pour une compression maximale sans perte.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Déploiement :** [Précisez : ex: Vercel, Netlify, ou Hostinger]
+
+---
+
+## 🚀 Installation et Lancement (Local)
+
+Si vous souhaitez cloner ce projet et le lancer sur votre machine :
+
+1. **Cloner le dépôt :**
+
+```bash
+git clone https://github.com/votre-nom/suzuki-landing-page.git
+
+```
+
+2. **Accéder au dossier :**
+
+```bash
+cd suzuki-landing-page
+
+```
+
+3. **Lancer le projet :**
+
+- _Si HTML simple :_ Ouvrez `index.html` dans votre navigateur.
+- _Si Framework :_ `npm install` puis `npm run dev`.
+
+---
+
+## 📈 Optimisations Mises en Place
+
+> [!IMPORTANT]
+> **Gestion de la Vidéo Hero :** > La vidéo en haut de page est servie en format `.mp4` compressé (sous 5Mo) avec un attribut `poster` (image de secours) pour garantir une expérience visuelle avant même la fin du chargement du flux vidéo.
+
+- **Lazy Loading :** Toutes les images sous la ligne de flottaison sont chargées à la demande.
+- **SEO :** Utilisation des balises sémantiques (H1-H3) et Meta Tags optimisés pour les mots-clés "Achat Suzuki", "Essai véhicule hybride".
+
+---
+
+## 🖼️ Aperçu du Design
+
+- **Typographie :** [Nom de la police, ex: Roboto ou Montserrat]
+- **Couleurs :** \* 🔴 Rouge Suzuki : `#E30613`
+- ⚫ Noir Premium : `#1A1A1A`
+- ⚪ Blanc Pur : `#FFFFFF`
+
+---
+
+## 👤 Contact
+
+**Nom du Développeur** – [@octaveBahoun-Houtoukpe](https://www.google.com/search?q=https://octavebahoun-houtoukpe.vercel.app/)

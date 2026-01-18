@@ -16,12 +16,13 @@ Ce projet est une **Landing Page haute performance** dédiée à la promotion et
 
 ## 🛠️ Stack Technique
 
-- **Frontend :** [Précisez : ex: HTML5/CSS3/JS ou React/Next.js]
+- **Frontend :** React + Tailwindcss + Motion
 - **Design & Médias :**
 - **Vidéos :** Générées via Grok (IA) et optimisées avec Handbrake.
 - **Images :** Format WebP pour une compression maximale sans perte.
 
-- **Déploiement :** [Précisez : ex: Vercel, Netlify, ou Hostinger]
+- **Déploiement :** Vercel
+- **Liens :** [Suzuki_website](https://octavebahoun-houtoukpe.vercel.app/)
 
 ---
 
@@ -45,8 +46,7 @@ cd suzuki-landing-page
 
 3. **Lancer le projet :**
 
-- _Si HTML simple :_ Ouvrez `index.html` dans votre navigateur.
-- _Si Framework :_ `npm install` puis `npm run dev`.
+`npm install` puis `npm run dev`.
 
 ---
 
@@ -62,7 +62,7 @@ cd suzuki-landing-page
 
 ## 🖼️ Aperçu du Design
 
-- **Typographie :** [Nom de la police, ex: Roboto ou Montserrat]
+- **Typographie :** Roboto
 - **Couleurs :** \* 🔴 Rouge Suzuki : `#E30613`
 - ⚫ Noir Premium : `#1A1A1A`
 - ⚪ Blanc Pur : `#FFFFFF`

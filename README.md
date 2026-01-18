@@ -22,7 +22,7 @@ Ce projet est une **Landing Page haute performance** dédiée à la promotion et
 - **Images :** Format WebP pour une compression maximale sans perte.
 
 - **Déploiement :** Vercel
-- **Liens :** [Suzuki_website](https://octavebahoun-houtoukpe.vercel.app/)
+- **Liens :** [Suzuki_website](https://suzuki-website-two.vercel.app/)
 
 ---
 
